@@ -1,1 +1,1 @@
-# My-resource_My-Story-of-Becoming-a-Data-Scientist
+# My-Resource_My-Story-of-Becoming-a-Data-Scientist
